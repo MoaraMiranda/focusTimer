@@ -17,7 +17,7 @@ export default function () {
     kitchenTimer.play();
   }
 
-  bgAudio.loop;
+  bgAudio.loop = true;
 
   return {
     pressButton,
