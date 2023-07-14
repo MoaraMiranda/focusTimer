@@ -1,3 +1,6 @@
 # focusTimer
 
-Project developed with HTML, CSS, and JavaScript in class with the help of a mentor. Greater complexity was intentionally added to the code in order to be prepared to handle more complex and larger projects. ES6 was used to modularize parts of the project and train logical reasoning.
+The project was developed using HTML, CSS, and JavaScript during a class session with the assistance of a mentor. 
+
+We deliberately introduced increased complexity to the codebase with the purpose of being well-equipped to tackle more intricate and extensive projects. 
+ES6 was employed to modularize different components of the project and enhance logical reasoning skills.
