@@ -1,4 +1,4 @@
-# focusTimer
+# Focus Timer - Pomodoro
 
 The project was developed using HTML, CSS, and JavaScript during a class session with the assistance of a mentor. 
 
